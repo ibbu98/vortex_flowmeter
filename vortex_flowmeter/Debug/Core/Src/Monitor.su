@@ -1,5 +1,0 @@
-../Core/Src/Monitor.c:59:6:set_display_mode	8	static
-../Core/Src/Monitor.c:79:6:chk_UART_msg	16	static
-../Core/Src/Monitor.c:138:6:UART_msg_process	112	static
-../Core/Src/Monitor.c:299:10:is_hex	16	static
-../Core/Src/Monitor.c:309:6:monitor	8	static

@@ -1,9 +1,0 @@
-../Core/Src/NHD_0216HZ.c:22:6:init_spi	8	static
-../Core/Src/NHD_0216HZ.c:30:6:write_spi	16	static
-../Core/Src/NHD_0216HZ.c:39:6:write_4bit	24	static
-../Core/Src/NHD_0216HZ.c:58:6:write_cmd	24	static
-../Core/Src/NHD_0216HZ.c:69:6:write_data	24	static
-../Core/Src/NHD_0216HZ.c:80:6:set_cursor	24	static
-../Core/Src/NHD_0216HZ.c:90:6:print_lcd	16	static
-../Core/Src/NHD_0216HZ.c:100:6:init_lcd	8	static
-../Core/Src/NHD_0216HZ.c:130:6:delay_us	24	static
