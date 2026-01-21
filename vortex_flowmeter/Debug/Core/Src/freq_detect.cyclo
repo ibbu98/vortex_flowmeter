@@ -1,0 +1,3 @@
+../Core/Src/freq_detect.c:33:7:freq_estimate	6
+../Core/Src/freq_detect.c:60:7:flow_calculate	1
+../Core/Src/freq_detect.c:86:6:freq_init	1
